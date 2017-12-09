@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/Dragonicity/dragonviews
+  revision: 053ee311ebaec0e8d44687fe125101d007e43d39
+  specs:
+    dragonviews (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -178,6 +184,7 @@ DEPENDENCIES
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
+  dragonviews!
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   pg (~> 0.18)
